@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/rumal2002" target="blank"><img src="https://img.shields.io/twitter/follow/rumal2002?logo=twitter&style=for-the-badge" alt="rumal2002" /></a> </p>
 
-- 🔭 I’m currently working on **Mr.Bass**
+- 🔭 I’m currently working on **TECLOX**
 
 - 🌱 I’m currently learning **Mobile Application Development**
 
-- 💬 Ask me about **react, JavaScript and Java**
+- 💬 Ask me about **Java,JavaScript,React And Node**
 
 - 📫 How to reach me **medagedararrbm@gmail.com**
 
