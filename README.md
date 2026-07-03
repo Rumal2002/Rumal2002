@@ -1,35 +1,222 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)]
-<h1 align="center">Hi 👋, I'm Rumal Medagedara</h1>
-<h3 align="center">Computer Science Undergraduate at University of Westminster.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<div align="center">
 
+# 👋 Hi, I'm Rumal Medagedara
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rumal2002&label=Profile%20views&color=0e75b6&style=flat" alt="rumal2002" /> </p>
+### 🚀 Aspiring DevSecOps Engineer | Cloud Enthusiast | Computer Science Undergraduate
 
-<p align="left"> <a href="https://twitter.com/rumal2002" target="blank"><img src="https://img.shields.io/twitter/follow/rumal2002?logo=twitter&style=for-the-badge" alt="rumal2002" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=800&lines=DevSecOps+Engineer+in+Progress;AWS+Cloud+Enthusiast;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation;Security+Automation;Always+Learning..." />
 
-- 🔭 I’m currently working on **TECLOX**
+</div>
 
-- 🌱 I’m currently learning **Mobile Application Development**
+---
 
-- 💬 Ask me about **Java,JavaScript,React And Node**
+## 💻 About Me
 
-- 📫 How to reach me **medagedararrbm@gmail.com**
+🎓 Computer Science Undergraduate at the **University of Westminster**
 
-<h3 align="left">Connect with me:</h3>
+☁️ Passionate about
+
+- DevSecOps
+- Cloud Computing
+- Platform Engineering
+- Infrastructure as Code
+- CI/CD Automation
+- Containerization
+- Kubernetes
+- Security Automation
+
+🔭 Currently Working On
+
+- AutoPatch (Final Year Research)
+- AWS Cloud Projects
+- DevSecOps Portfolio
+- Terraform Labs
+
+🌱 Currently Learning
+
+- Kubernetes
+- Terraform
+- AWS
+- Jenkins
+- GitHub Actions
+- Prometheus
+- Grafana
+- ArgoCD
+
+💬 Ask me about
+
+- AWS
+- Docker
+- Linux
+- Git
+- GitHub Actions
+- Terraform
+- Kubernetes
+- JavaScript
+- React
+- Node.js
+
+📫 Reach Me
+
+**medagedararrbm@gmail.com**
+
+---
+
+# 🌐 Connect With Me
+
 <p align="left">
-<a href="https://twitter.com/rumal2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rumal2002" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/rumal-medagedara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rumal-medagedara" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/share/18fnxaj1z4/?mibextid=wwxifr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/18fnxaj1z4/?mibextid=wwxifr" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/r_ranajitha?igsh=mwg2zdiwowrlewrzda%3d%3d&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/r_ranajitha?igsh=mwg2zdiwowrlewrzda%3d%3d&utm_source=qr" height="30" width="40" /></a>
-<a href="https://medium.com/@medagedararrbm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@medagedararrbm" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/rumal-medagedara">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://medium.com/@medagedararrbm">
+<img src="https://skillicons.dev/icons?i=devto" />
+</a>
+
+<a href="https://github.com/rumal2002">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rumal2002&show_icons=true&locale=en&layout=compact" alt="rumal2002" /></p>
+# 🚀 DevSecOps Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rumal2002&show_icons=true&locale=en" alt="rumal2002" /></p>
+<p align="left">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rumal2002&" alt="rumal2002" /></p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,git,github,githubactions,bash,prometheus,grafana,python,nodejs,react,mongodb,mysql,vscode" />
+
+</p>
+
+---
+
+# 📚 Currently Studying
+
+- AWS Cloud
+- Docker
+- Kubernetes
+- Terraform
+- Jenkins
+- GitHub Actions
+- DevSecOps
+- Security Scanning
+- Infrastructure as Code
+- Monitoring & Observability
+
+---
+
+# 🚀 Featured Project
+
+## 🔐 AutoPatch
+
+**Privacy-Preserving DevSecOps Gate for Autonomous Vulnerability Remediation using Local Multi-Agent LLMs**
+
+### Technologies
+
+- AWS
+- Docker
+- Kubernetes
+- Terraform
+- Python
+- Semgrep
+- Prometheus
+- Grafana
+- GitHub Actions
+
+---
+
+# 📖 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- Coming Soon...
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rumal2002&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumal2002&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rumal2002&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rumal2002&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rumal2002&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# ☁️ Goals for 2026
+
+✅ AWS Certified Cloud Practitioner
+
+⬜ AWS Solutions Architect Associate
+
+⬜ Kubernetes (CKA)
+
+⬜ Terraform Associate
+
+⬜ Build 20+ DevOps Projects
+
+⬜ Publish 50+ Technical Articles
+
+⬜ Contribute to Open Source
+
+⬜ Land a DevSecOps Internship
+
+---
+
+# ⚡ Fun Fact
+
+> "Automate everything. Secure by default."
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=rumal2002&style=for-the-badge)
+
+⭐ From [Rumal Medagedara](https://github.com/rumal2002)
+
+</div>
