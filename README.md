@@ -1,132 +1,77 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Rumal Medagedara
+<div align="center">
 
-### Computer Science Undergraduate | Aspiring DevOps & Cloud Engineer
+# 👋 Hi, I'm Rumal Medagedara
 
-Passionate about **Linux, Cloud Computing, DevOps, Automation, and Infrastructure Engineering**.
+### 🚀 Aspiring DevSecOps Engineer | Cloud Enthusiast | Computer Science Undergraduate
 
-I'm currently building my DevOps portfolio by learning through hands-on projects, documenting my progress, and sharing my journey on GitHub, LinkedIn, and Medium.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=800&lines=DevSecOps+Engineer+in+Progress;AWS+Cloud+Enthusiast;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation;Security+Automation;Always+Learning..." />
 
----
-
-## 🚀 About Me
-
-- 🎓 Computer Science Undergraduate at the **University of Westminster**
-- 💼 Completed a **Software Engineering Internship**
-- 🌱 Currently learning **Linux, Bash, Networking, Docker, GitHub Actions, and AWS**
-- 🎯 Goal: Become a **DevOps / DevSecOps Engineer**
-- 📝 Documenting my learning journey through GitHub repositories and Medium articles
-- 📫 Reach me at **medagedararrbm@gmail.com**
+</div>
 
 ---
 
-## 🛣️ My DevOps Roadmap
+## 💻 About Me
 
-| Technology | Status |
-|------------|:------:|
-| Linux | 🟢 Learning |
-| Networking | 🟡 Next |
-| Git & GitHub | 🟢 Learning |
-| Bash Scripting | 🟡 Next |
-| Docker | ⏳ Planned |
-| GitHub Actions | ⏳ Planned |
-| AWS | ⏳ Planned |
-| Kubernetes | ⏳ Planned |
-| Terraform | ⏳ Planned |
-| Ansible | ⏳ Planned |
-| Monitoring | ⏳ Planned |
-| DevSecOps | ⏳ Planned |
+🎓 Computer Science Undergraduate at the **University of Westminster**
 
----
+☁️ Passionate about
 
-## 📂 Featured Projects
+- DevSecOps
+- Cloud Computing
+- Platform Engineering
+- Infrastructure as Code
+- CI/CD Automation
+- Containerization
+- Kubernetes
+- Security Automation
 
-🚀 Linux Learning Journey *(In Progress)*
+🔭 Currently Working On
 
-This repository documents my day-by-day Linux learning journey while preparing for a DevOps career.
+- AutoPatch (Final Year Research)
+- AWS Cloud Projects
+- DevSecOps Portfolio
+- Terraform Labs
 
-More DevOps projects coming soon...
+🌱 Currently Learning
 
-- Docker Projects
-- AWS Projects
-- Kubernetes Projects
-- Terraform Projects
-- CI/CD Projects
-- DevSecOps Projects
+- Kubernetes
+- Terraform
+- AWS
+- Jenkins
+- GitHub Actions
+- Prometheus
+- Grafana
+- ArgoCD
 
----
+💬 Ask me about
 
-## 🛠️ Tech Stack
+- AWS
+- Docker
+- Linux
+- Git
+- GitHub Actions
+- Terraform
+- Kubernetes
+- JavaScript
+- React
+- Node.js
 
-### Programming Languages
+📫 Reach Me
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript" />
-</p>
-
-### DevOps & Cloud (Learning)
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,kubernetes,terraform,aws" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,mysql,mongodb" />
-</p>
+**medagedararrbm@gmail.com**
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rumal2002&show_icons=true&theme=github_dark"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rumal2002&theme=github-dark"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumal2002&layout=compact&theme=github_dark"/>
-
-</p>
-
----
-
-## 📚 Currently Learning
-
-- Linux Fundamentals
-- Linux Command Line
-- File System
-- Bash
-- Networking
-- Git & GitHub
-- DevOps Fundamentals
-
----
-
-## 🎯 2026 Goals
-
-- Complete Linux Fundamentals
-- Learn Docker
-- Learn Kubernetes
-- Learn AWS
-- Learn Terraform
-- Build 15+ DevOps Projects
-- Publish technical articles on Medium
-- Build a professional DevOps Portfolio
-- Become job-ready for a Junior DevOps Engineer role
-
----
-
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/rumal-medagedara">
+<a href="https://linkedin.com/in/rumal-medagedara">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="https://medium.com/@medagedararrbm">
-<img src="https://skillicons.dev/icons?i=md" />
+<img src="https://skillicons.dev/icons?i=devto" />
 </a>
 
 <a href="https://github.com/rumal2002">
@@ -137,10 +82,111 @@ More DevOps projects coming soon...
 
 ---
 
-## 💡 Quote
+# 🚀 DevSecOps Stack
 
-> "Continuous learning, consistency, and hands-on practice are the foundation of becoming a great DevOps Engineer."
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,git,github,githubactions,bash,prometheus,grafana,python,nodejs,react,mongodb,mysql,vscode" />
+
+</p>
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+# 📚 Currently Studying
+
+- AWS Cloud
+- Docker
+- Kubernetes
+- Terraform
+- Jenkins
+- GitHub Actions
+- DevSecOps
+- Security Scanning
+- Infrastructure as Code
+- Monitoring & Observability
+
+---
+
+# 🚀 Featured Project
+
+## 🔐 AutoPatch
+
+**Privacy-Preserving DevSecOps Gate for Autonomous Vulnerability Remediation using Local Multi-Agent LLMs**
+
+### Technologies
+
+- AWS
+- Docker
+- Kubernetes
+- Terraform
+- Python
+- Semgrep
+- Prometheus
+- Grafana
+- GitHub Actions
+
+---
+
+# 📖 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- Coming Soon...
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rumal2002&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rumal2002&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rumal2002&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+
+# ⚡ Fun Fact
+
+> "Automate everything. Secure by default."
+
+---
+
+<div align="center">
+
+
+
+⭐ From [Rumal Medagedara](https://github.com/rumal2002)
+
+</div>
