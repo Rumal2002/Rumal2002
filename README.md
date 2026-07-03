@@ -107,52 +107,12 @@
 
 ---
 
-# 🚀 Featured Project
-
-## 🔐 AutoPatch
-
-**Privacy-Preserving DevSecOps Gate for Autonomous Vulnerability Remediation using Local Multi-Agent LLMs**
-
-### Technologies
-
-- AWS
-- Docker
-- Kubernetes
-- Terraform
-- Python
-- Semgrep
-- Prometheus
-- Grafana
-- GitHub Actions
-
----
 
 # 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - Coming Soon...
 <!-- BLOG-POST-LIST:END -->
-
----
-
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rumal2002&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rumal2002&theme=tokyonight&row=1&column=7"/>
-
-</p>
 
 ---
 
